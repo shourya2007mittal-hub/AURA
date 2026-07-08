@@ -1,11 +1,11 @@
-Item,Price,Source
- PCB + PCBA ,154.46, jlcpcb.com
-PCB Shipping,17.32, jlcpcb.com
-Brushless Motor (2),2 x 15.2 = 30.4,https://robu.in/product/r2207-2207-2450kv-ccw-fpv-brushless-motor/
-ESC's (2),2 x 8.91 = 17.82,https://robocraze.com/products/simplifly-esc-30a-2s-6s-for-bldc-motors-with-d-shot-oneshot125
- Reciever/Transmitter,62,https://robocraze.com/products/simplifly-esc-30a-2s-6s-for-bldc-motors-with-d-shot-oneshot125
- 12 V battery ,5.78,https://robocraze.com/products/11-1v-2200mah-li-ion-battery?_pos=18&_sid=25292ddd5&_ss=r
- Servo (2),2 x .96 = 1.92,https://robocraze.com/products/sg90-micro-servo-motor?_pos=1&_sid=88e48e080&_ss=r
+Item,Price (USD),Source
+PCB + PCBA,154.46,https://jlcpcb.com
+PCB Shipping,17.32,https://jlcpcb.com
+Brushless Motor (2),30.40,https://robu.in/product/r2207-2207-2450kv-ccw-fpv-brushless-motor/
+ESCs (2),17.82,https://robocraze.com/products/simplifly-esc-30a-2s-6s-for-bldc-motors-with-d-shot-oneshot125
+Receiver/Transmitter,62.00,<Replace with correct Receiver/Transmitter product URL>
+12V Battery,5.78,https://robocraze.com/products/11-1v-2200mah-li-ion-battery?_pos=18&_sid=25292ddd5&_ss=r
+Servo (2),1.92,https://robocraze.com/products/sg90-micro-servo-motor?_pos=1&_sid=88e48e080&_ss=r
  ,,
 
  
