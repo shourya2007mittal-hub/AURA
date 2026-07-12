@@ -1,6 +1,6 @@
 # AURA
 <img width="742" height="680" alt="Screenshot 2026-07-08 161159" src="https://github.com/user-attachments/assets/6507e97c-0d4a-46ab-a19c-65a044c6468d" />
-I de a custom Tailless twin motor RC Plane with custom Flight Controller (based on STM32). The Flight Controller  will have 2 IMU's and a barometer for precise data collection. The Plane design will include a tailless structure and the motions will be controlled by the flaps on the wings.
+I made a custom Tailless twin motor RC Plane with custom Flight Controller (based on STM32). The Flight Controller  will have 2 IMU's and a barometer for precise data collection. The Plane design will include a tailless structure and the motions will be controlled by the flaps on the wings.
 
 ## Features
 - Base on  STM32F401CBUx 
