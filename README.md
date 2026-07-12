@@ -64,5 +64,4 @@ This repository contains the complete **Bill of Materials (BOM)** for the RC Pla
 
 
 
-This BOM is provided for educational and personal project use. Verify component specifications and compatibility before purchasing.
   
