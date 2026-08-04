@@ -1,5 +1,6 @@
 # AURA
-<img width="917" height="528" alt="Screenshot 2026-08-02 024252" src="https://github.com/user-attachments/assets/e8bd9bc1-d404-4238-a806-4c6aaa08c759" />
+<img width="917" height="528" alt="Screenshot 2026-08-02 024252" src="https://github.com/user-attachments/assets/da142836-17d1-4444-a480-9ede9af90a51" />
+
 
 I made a custom Tailless twin motor RC Plane with custom Flight Controller (based on STM32). The Flight Controller  will have 2 IMU's and a barometer for precise data collection. The Plane design will include a tailless structure and the motions will be controlled by the flaps on the wings. I have also made custom ESc for the Plane as well.
 
@@ -70,13 +71,11 @@ This repository contains the complete **Bill of Materials (BOM)** for the RC Pla
 
 
 ### 3D Design 
-<img width="917" height="528" alt="Screenshot 2026-08-02 024252" src="https://github.com/user-attachments/assets/9792d7d5-c41a-481f-bb60-c3fa9558eef8" />
+<img width="970" height="577" alt="Screenshot 2026-08-02 024017" src="https://github.com/user-attachments/assets/2d9b897f-49e2-4696-80c0-dc2ddb7349ff" />
 
-<img width="642" height="387" alt="Screenshot 2026-08-02 024306" src="https://github.com/user-attachments/assets/b7e27ae4-3a9f-4d1b-91b5-f5e2e9d060a5" />
-<img width="567" height="655" alt="Screenshot 2026-08-02 024321" src="https://github.com/user-attachments/assets/f730ae9b-6552-44d0-9b88-ef0e3723ff17" />
+<img width="917" height="528" alt="Screenshot 2026-08-02 024252" src="https://github.com/user-attachments/assets/908e1a4f-a71a-4fd3-a783-1cc3ed3c74b8" />
 
-<img width="1052" height="495" alt="Screenshot 2026-07-08 161302" src="https://github.com/user-attachments/assets/03c98845-beb9-4136-b775-faca25e47061" />
-
+<img width="642" height="387" alt="Screenshot 2026-08-02 024306" src="https://github.com/user-attachments/assets/2b952319-7bd8-41c1-a7a9-b74aa50eb0b6" />
 
 
 
