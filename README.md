@@ -35,7 +35,7 @@ This repository contains the complete **Bill of Materials (BOM)** for the RC Pla
 
 | Category | Amount (USD) |
 |----------|-------------:|
-| Total Component Cost | **$452.74** |
+| Total Component Cost | **$352.74** |
 
 ---
 
