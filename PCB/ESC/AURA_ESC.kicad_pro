@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.27,
-          "width": 2.54
+          "drill": 0.0,
+          "height": 0.36,
+          "width": 0.318
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -553,7 +553,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../../../../YX/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -688,13 +688,13 @@
         "uuid": "31129f00-cb50-440c-b5a0-f4bb57b13ac2"
       }
     ],
-    "used_designators": "",
+    "used_designators": "C14-21,L2-3,D6-7,F1,Q1,R33,U11-12",
     "variants": []
   },
   "sheets": [
     [
       "31129f00-cb50-440c-b5a0-f4bb57b13ac2",
-      "R_esc"
+      "AURA_ESC"
     ]
   ],
   "text_variables": {},
