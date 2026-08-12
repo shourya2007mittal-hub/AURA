@@ -24,7 +24,7 @@ This repository contains the complete **Bill of Materials (BOM)** for the RC Pla
 | PCB + PCBA (Flight Controller + ESC) | 1 | $253.46 | $253.46 | https://jlcpcb.com |
 | PCB Shipping + coupons | 1 | $17.32 | $17.32 | https://jlcpcb.com |
 | Brushless Motor | 2 | $15.20 | $30.40 | https://robu.in/product/r2207-2207-2450kv-ccw-fpv-brushless-motor/ |
-| Receiver / Transmitter | 1 | $62.00 | $62.00 |https://robocraze.com/products/fly-sky-fs-i6x-2-4ghz-6ch-afhds-2a-rc-transmitter-with-fs-ia10b-2-4ghz-10ch-receiver?_pos=6&_sid=c7af4b55f&_ss=r |
+| Receiver / Transmitter | 1 | $0 | $0 Funded by me |https://robocraze.com/products/fly-sky-fs-i6x-2-4ghz-6ch-afhds-2a-rc-transmitter-with-fs-ia10b-2-4ghz-10ch-receiver?_pos=6&_sid=c7af4b55f&_ss=r |
 | 12V Battery | 1 | $5.78 | $5.78 | https://robocraze.com/products/11-1v-2200mah-li-ion-battery?_pos=18&_sid=25292ddd5&_ss=r |
 | SG90 Servo | 2 | $0.96 | $1.92 | https://robocraze.com/products/sg90-micro-servo-motor?_pos=1&_sid=88e48e080&_ss=r |
 | 3D Printed Plane | 1 | $41.86 | $41.86 |https://jlc3dp.com/ |
@@ -35,7 +35,7 @@ This repository contains the complete **Bill of Materials (BOM)** for the RC Pla
 
 | Category | Amount (USD) |
 |----------|-------------:|
-| Total Component Cost | **$412.74** |
+| Total Component Cost | **$452.74** |
 
 ---
 
@@ -51,23 +51,27 @@ This repository contains the complete **Bill of Materials (BOM)** for the RC Pla
 - 3D Printed Aircraft Frame
 
 ### Schematic Flight Controller
-<img width="1187" height="657" alt="Screenshot 2026-07-05 131710" src="https://github.com/user-attachments/assets/a67735ce-6008-4277-a656-f46ba076d847" />
+<img width="1190" height="656" alt="Screenshot 2026-08-12 232523" src="https://github.com/user-attachments/assets/b45c156c-7b14-49d2-832f-b397156a4479" />
+
 
 ###  PCB Design Flight Controller
 
-<img width="931" height="591" alt="Screenshot 2026-07-06 041629" src="https://github.com/user-attachments/assets/f4c4dd90-2a94-477a-b024-e975a904caee" />
-<img width="1186" height="768" alt="Screenshot 2026-07-06 041645" src="https://github.com/user-attachments/assets/8ff40d96-c71a-4fa5-b74f-39efa943d66c" />
+<img width="1181" height="770" alt="Screenshot 2026-08-12 232540" src="https://github.com/user-attachments/assets/ba373277-69dd-4c04-9a7f-102c66855ff6" />
+<img width="1137" height="821" alt="Screenshot 2026-08-12 232609" src="https://github.com/user-attachments/assets/c8ab1959-26d6-4e20-830b-43ea48c54226" />
+
 
 
 ### Schematic ESC
-<img width="1233" height="823" alt="Screenshot 2026-08-04 231303" src="https://github.com/user-attachments/assets/4c05a9fb-bbba-43cc-9d25-672fe98662c6" />
+<img width="1222" height="761" alt="Screenshot 2026-08-12 233108" src="https://github.com/user-attachments/assets/aba4232c-56a0-434a-a74f-7d87634f8ff8" />
+
 
 
 
 ###  PCB Design ESC
 
-<img width="972" height="608" alt="Screenshot 2026-08-04 231325" src="https://github.com/user-attachments/assets/5db3fedf-c056-4529-a49c-420cc264b09d" />
-<img width="1052" height="667" alt="Screenshot 2026-08-04 231342" src="https://github.com/user-attachments/assets/47bc732f-94fb-402f-b9e8-be41951fb815" />
+<img width="947" height="665" alt="Screenshot 2026-08-12 233126" src="https://github.com/user-attachments/assets/4fd1ed50-ce60-4c4c-8130-3670f437056b" />
+<img width="1238" height="808" alt="Screenshot 2026-08-12 233140" src="https://github.com/user-attachments/assets/3ab6bffd-b401-4021-a06d-358351dbcc73" />
+
 
 
 ### 3D Design 
